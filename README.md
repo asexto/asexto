@@ -1,11 +1,18 @@
+ <div align="center">
+
 # ¡Hola, soy Alejandro!
 
-<p align="center">
-  <img src="./assets/asexto-80s.png" width="190" alt="" />
-</p>
+<br>
 
-<p align="center">
-  <em>Tecnología, Código y Videojuegos.</em>
-</p>
+<img src="./assets/alejandro-80s.png" width="280" alt="Alejandro">
+
+<br>
+<br>
+
+### Tecnología · Código · Videojuegos
+
+<br>
 
 ---
+
+</div>
