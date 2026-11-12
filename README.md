@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/alejandro-80s.png" width="280" alt="Alejandro">
+<img src="./assets/asexto-80s.png" width="280" alt="Alejandro">
 
 <br>
 <br>
