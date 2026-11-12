@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Tecnología. Código. Curiosidad./em>
+  <em>Tecnología. Código. Curiosidad.</em>
 </p>
 
 ---
