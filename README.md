@@ -1,7 +1,7 @@
 # Alejandro
 
 <p align="center">
-  <img src="./assets/alejandro-80s.png" width="190" alt="Alejandro" />
+  <img src="./assets/asexto-80s.png" width="190" alt="" />
 </p>
 
 <p align="center">
